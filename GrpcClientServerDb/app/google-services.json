@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50260922806",
+    "project_id": "grpcclientserverdb",
+    "storage_bucket": "grpcclientserverdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50260922806:android:30aa9bd7c8d26fc9873117",
+        "android_client_info": {
+          "package_name": "com.example.grpcclientserverdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXaHHbT-liv77bnvcm2ZQdUSmuQhXIU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
